@@ -1,0 +1,19 @@
+[{
+        "name": "Tania",
+        "age": 22,
+        "hasSpouse": true,
+        "id": 1
+    },
+    {
+        "name": "Oleh",
+        "age": 27,
+        "hasSpouse": true,
+        "id": 2
+    },
+    {
+        "name": "Slavik",
+        "age": 45,
+        "hasSpouse": false,
+        "id": 3
+    }
+]

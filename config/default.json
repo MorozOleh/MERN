@@ -1,0 +1,5 @@
+{
+    "port": 4000,
+    "secret": "taniaIsTheBest",
+    "mongoDB": "mongodb+srv://olehmoroz:sport2021@cluster0.egq2b.mongodb.net/sport"
+}
