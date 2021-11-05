@@ -21,7 +21,6 @@ const validate = (req, res, next) => {
     const { error } = schema.validate(req.body)
 
     if (error) {
-        console.log(error)
         return res.status(400).json({ message: error.message })
     }
 
@@ -47,9 +46,6 @@ router.post('/registration', validate, async(req, res) => {
         return res.status(400).json({ message: e })
     }
 
-
-
-    console.log('success')
     res.status(201).json({
         massage: 'success',
         data
@@ -60,8 +56,6 @@ router.post('/login', async(req, res) => {
 
 
     const { email, password } = req.body
-
-    console.log(email)
 
     const isUser = await LoginSchema.findOne({ email })
 

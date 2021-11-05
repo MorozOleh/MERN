@@ -1,0 +1,91 @@
+[{
+        "imageUrl": "http://localhost:4000/birds.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/corvet.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/cow.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/deer.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/flamingos.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/football_field.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/fresh_air.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/giraffe.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/morning.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/mountain.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/music_mixer.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/mustang.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/red_car.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/robust_coffee.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/set_of_coffee.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/ski.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/warm_coffee.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    },
+    {
+        "imageUrl": "http://localhost:4000/winter_mountain.jpeg",
+        "alt": "desc",
+        "desc": "desc"
+    }
+]
