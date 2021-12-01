@@ -7,8 +7,6 @@ const config = require('config');
 const registrationController = async (req, res) => {
   const { password, email } = req.body;
 
-  console.log(req.body);
-
   const [isEmail] = await UserModel.findEmail(email);
   if (isEmail.length) {
     return res

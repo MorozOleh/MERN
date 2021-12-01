@@ -9,11 +9,6 @@ const exerciseRoute = require('./routers/exerciseRouter');
 const postRoute = require('./routers/postsRouter');
 const PORT = process.env.PORT || 8000;
 const path = require('path');
-const { connect } = require('./db/connection');
-
-console.log(process.env.PORT);
-
-connect();
 
 app.use(cors());
 app.use(express.json());
